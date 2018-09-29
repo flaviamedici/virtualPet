@@ -44,7 +44,7 @@ $(function() {
       document.getElementById('div1').innerHTML = ""
     }
     if (pet_info['weight'] > 15) {
-      document.getElementById('div1').innerHTML = "Your pet is getting fat!!! It needs some exercise"
+      document.getElementById('div1').innerHTML = "Your pet needs exercise"
     }
     
   }
